@@ -1,5 +1,3 @@
-![Banner Image](main.png)
-
 # 🎂 Interactive Birthday Cake Project 🎉
 
 ## Overview
